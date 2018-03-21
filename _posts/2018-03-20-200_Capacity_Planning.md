@@ -7,12 +7,10 @@ comments: true
 
 Bora ae estudar um pouco de linux. Esse é o primeiro post de uma série que eu irei utilizar para estudar p/ minha prova LPI 201. Espero escrever sobre todos os tópicos.
 
+## 200.1 Measure and Troubleshoot Resource Usage
+#### Peso: 6
 
-200.1 Measure and Troubleshoot Resource Usage
-
-Peso: 6
-
-1 Áreas de conhecimento:
+### Áreas de conhecimento:
 
  Medir uso da CPU
  Medir uso da memória
@@ -23,7 +21,7 @@ Peso: 6
  Combinar / correlacionar sintomas do sistema com prováveis problemas.
  Estimar o rendimento e identificar gargalos em um sistema, incluindo redes.
 
-A seguir, uma lista parcial dos arquivos, termos e utilitários usados:
+### Lista parcial dos arquivos, termos e utilitários usados:
  iostat
  iotop
  vmstat
