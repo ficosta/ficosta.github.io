@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 200 Capacity Planning
+title: LPIC 2 200 Capacity Planning
 comments: true
 ---
 
