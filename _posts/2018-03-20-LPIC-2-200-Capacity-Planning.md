@@ -1,56 +1,41 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: LPIC 2 200 Capacity Planning
+comments: true
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+Bora ae estudar um pouco de linux. Esse é o primeiro post de uma série que eu irei utilizar para estudar p/ minha prova LPI 201. Espero escrever sobre todos os tópicos.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+## 200.1 Measure and Troubleshoot Resource Usage
+#### Peso: 6
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+### Áreas de conhecimento:
 
-## Header 2 (H1 is reserved for post titles)##
+ Medir uso da CPU
+ Medir uso da memória
+ Medir uso do disco I/O
+ Medir uso da rede I/O
+ Medir capacidade de transferencia do firewall e roteamento.
+ Mapear o uso da rede.
+ Combinar / correlacionar sintomas do sistema com prováveis problemas.
+ Estimar o rendimento e identificar gargalos em um sistema, incluindo redes.
 
-### Header 3
-
-#### Header 4
-
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
-An image, located within /images
-
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
-
-Inline markup styles:
-
-- _italics_
-- **bold**
-- `code()`
-
-> Blockquote
->> Nested Blockquote
-
-Syntax highlighting can be used with triple backticks, like so:
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-```
-
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
-
-Finally, horizontal lines
-
-----
-****
+### Lista parcial dos arquivos, termos e utilitários usados:
+ iostat
+ iotop
+ vmstat
+ netstat
+ ss
+ iptraf
+ pstree, ps
+ w
+ lsof
+ top
+ htop
+ uptime
+ sar
+ swap
+ processes blocked on I/O
+ blocks in
+ blocks out
+ network
