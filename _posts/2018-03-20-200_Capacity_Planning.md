@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: LPIC 2  200 Capacity Planning
