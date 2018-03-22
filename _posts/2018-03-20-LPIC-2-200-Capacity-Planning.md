@@ -39,12 +39,14 @@ Bora ae estudar um pouco de linux. Esse é o primeiro post de uma série que eu 
 * blocks in
 * blocks out
 * network
-___
-#### iostat
 
-O comando [iostat](https://linux.die.net/man/1/iostat){:target="blank"} é utilizado para monitorar a carga de entrada/saída do sistema. Isso é feito observando o tempo que o dispositivo esta ativo em relação com a media da taxa de transferência.
+***
+
+### iostat
+
+O comando [iostat](https://linux.die.net/man/1/iostat){:target="blank"} é utilizado para monitorar a carga de entrada/saída do sistema. Isso é feito observando o tempo que o dispositivo esta ativo em relação a media da taxa de transferência.
 Se nenhum parâmetro for utilizado é exibido as estatísticas desde o ultimo reboot. Os parâmetros mais comuns são [intervalo] [repetições].
 
-``` bash
+```console
 $ iostat [options] [interval [count] ]
 ```
