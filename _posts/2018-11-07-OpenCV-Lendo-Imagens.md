@@ -54,7 +54,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![imshowPrint]("https://raw.githubusercontent.com/ficosta/ficosta.github.io/master/images/opencv_imshow_screenshot.jpg")
+![imshow PrintScreen](/images/opencv_imshow_screenshot.jpg)
 
 `waitKey(0)` irá aguardar por uma tecla a ser pressionada, posteriormente `destroyAllWindows()` irá fechar a janela.
 
