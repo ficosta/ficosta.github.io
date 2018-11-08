@@ -36,7 +36,7 @@ No lugar das flags, você pode utilizar _1, 0 ou -1_ respectivamente.
 
 Exemplo:
 
-```
+```python
 import numpy as np
 import cv2
 
@@ -50,7 +50,7 @@ Para exibir imagens com OpenCV utilize imshow(). A janela é ajustada automatica
 
 A função recebe dois argumentos, o nome da janela e a imagem a ser exibida. Você pode criar inumeras janelas porém, os nomes devem ser diferentes.
 
-```
+```python
 cv2.imshow('image',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
