@@ -60,5 +60,4 @@ cv2.destroyAllWindows()
 
 `waitKey(0)` irá aguardar por uma tecla a ser pressionada, posteriormente `destroyAllWindows()` irá fechar a janela.
 
-Em um outro post falaremos mais sobre essas 2 funções.
-Em um post futuro, também iremos abordar como utilizar a biblioteca Matplotlib para exibir imagens com controles adicionais. Até lá!
+Em um outro post falaremos mais sobre essas 2 funções e em um post futuro, também iremos abordar como utilizar a biblioteca Matplotlib para exibir imagens com controles adicionais. Até lá!
