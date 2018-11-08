@@ -2,6 +2,8 @@
 layout: post
 title: Lendo e exibindo imagens com OpenCV
 comments: true
+categories: [OpenCV, ComputerVision]
+tags: [OpenCV, imshow, imread]
 ---
 
 Esse é o primeiro post de uma série sobre OpenCV, matplotlib e numpy, nele você vai aprender a ler e exibir corretamente uma imagem.
