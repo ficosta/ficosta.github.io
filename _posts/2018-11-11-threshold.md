@@ -81,7 +81,7 @@ cv.adaptiveThreshold(src, maxValue, adaptiveMethod, thresholdType, blockSize, C[
 - maxval - valor máximo
 - type:
   - cv2.ADAPTIVE_THRESH_MEAN_C : valor limite é a média da área dos vizinhos.
-  - cv2.ADAPTIVE_THRESH_GAUSSIAN_C : valor limite é a soma ponderada dos valores de vizinhança onde os pesos são uma janela gaussiana (tamanho do bloco x tamanho do bloco da posição x,y menos o valor C _(abaixo)_).
+  - cv2.ADAPTIVE*THRESH_GAUSSIAN_C : valor limite é a soma ponderada dos valores de vizinhança onde os pesos são uma janela gaussiana (tamanho do bloco x tamanho do bloco da posição x,y menos o valor C *(abaixo)\_).
 - blockSize - tamanho do bloco dos vizinhos
 - C - É apenas uma constante que é subtraída da média ou da média ponderada calculada.
 
@@ -94,7 +94,7 @@ from matplotlib import pyplot as plt
 img = cv.imread('../DATA/lcd_calc.jpg',0)
 th1 = cv.adaptiveThreshold(img,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C,\
             cv.THRESH_BINARY,27,5)
-plt.imgshow(th1,cmap='gray')
+plt.imshow(th1,cmap='gray')
 ```
 
 ![SudokuThreshold](/images/lcd_adaptative.png)
