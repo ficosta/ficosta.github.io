@@ -88,5 +88,8 @@ img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 plt.imshow(img)
 ```
 
+Plot do resultado:
+![CalcRectangle](/images/lcd_rectangle.png)
+
 Veja mais em:
 [Documentação desenho básico](https://docs.opencv.org/3.4/d3/d96/tutorial_basic_geometric_drawing.html)
