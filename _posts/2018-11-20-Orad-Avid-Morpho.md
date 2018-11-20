@@ -12,7 +12,11 @@ Nessa última segunda estive com um pesssoal bacana da TV Educativa do Paraná m
 
 A documentação oficial do Morpho pode ser obtida diretamente no site da Avid porém, para facilitar segue o link.
 
+<<<<<<< HEAD
 [![Download](/images/pdf-icon.png)](/download/Morpho_31_user_guide.pdf)
+=======
+[![Download](/images/pdf-icon.png)](/download.Morpho_31_user_guide.pdf)
+>>>>>>> fa2861b85e25b7cdbf49088c37bbc46012977e5e
 
 No youtube, existem alguns video tutoriais bacanas também. Infelizmente eles estão em inglês.
 
