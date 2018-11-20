@@ -17,7 +17,7 @@ A documentação oficial do Morpho pode ser obtida diretamente no site da Avid p
 No youtube, existem alguns video tutoriais bacanas também. Infelizmente eles estão em inglês.
 
 - Processo de criação 1:
-  [![Youtube](/images/morpho/creation_process_2.png)](https://www.youtube.com/watch?v=TLPfJKQkSio)
+  [![Youtube](/images/morpho/creation_process_1.png)](https://www.youtube.com/watch?v=TLPfJKQkSio)
 
 - Processo de criação 2:
   [![Youtube](/images/morpho/creation_process_2.png)](https://www.youtube.com/watch?v=BpDztusoqIs)
