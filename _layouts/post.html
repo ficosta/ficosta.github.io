@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-
+    {{ post.date | date_to_string }}
   </div>
 
   {% include disqus.html %}
