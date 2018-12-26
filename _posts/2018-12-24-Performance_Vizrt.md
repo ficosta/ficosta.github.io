@@ -6,7 +6,7 @@ categories: [Vizrt, troubleshooting]
 tags: [troubleshooting, vizrt, Performance]
 ---
 
-Essa é uma tradução dos itens da página 277 do manual [Viz Artist 3.11](http://docs.vizrt.com/viz-artist-guide-3.11.pdf)
+Essa é uma tradução dos itens da página 277 do manual [Viz Artist 3.11](http://docs.vizrt.com/viz-artist-guide-3.11.pdf#page=277)
 
 ## Propriedades da barra de performance.
 
