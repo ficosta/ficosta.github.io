@@ -27,6 +27,6 @@ Para exibir apenas um tipo de item dentro de uma pasta, clique em na guia de tip
 - **All:** Todos os itens anteriores.
 - **<Username> View:** Visualização personalizada para inserir e salvar pesquisas de texto livre para uso posterior (consulte [Pesquisa de texto livre](http://docs.vizrt.com/viz-artist-guide-3.11.pdf#page=138)).
 
-Veja mais em [Youtube](***).
+Veja mais em [Youtube](https://youtu.be/396u30Un75w).
 
 Qualquer dúvida, me escreva!
