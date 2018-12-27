@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Performance Vizrt
+title: Content Switcher
 comments: true
-categories: [Vizrt, troubleshooting]
-tags: [troubleshooting, vizrt, Performance]
+categories: [Vizrt, Interface Gráfica]
+tags: [vizrt]
 ---
 
 Essa é uma tradução dos itens da página 65 do manual [Viz Artist 3.11](http://docs.vizrt.com/viz-artist-guide-3.11.pdf#page=65)
