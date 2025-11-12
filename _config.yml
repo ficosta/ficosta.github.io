@@ -6,7 +6,7 @@
 name: Felipe Iasi
 
 # Short bio or description (displayed in the header)
-description: Não há nada tão dificil que não possa ser feito
+description: Full Stack Developer & Product Innovator
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/ficosta/ficosta.github.io/master/images/profile.jpg
@@ -23,12 +23,12 @@ footer-links:
   flickr:
   github: ficosta
   instagram:
-  linkedin: felipe-iasi-de-barros-costa-56869026
+  linkedin: felipe-iasi
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: c/FelipeIasi
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
